@@ -1,5 +1,6 @@
 <!-- ABOUT THE PROJECT -->
-# DAMI II Project: Assocation rule mining with MIMIC-IV dataset: Exploring comorbidity diagnoses of major depressive disorder 
+# DAMI II Project: 
+# Assocation rule mining with MIMIC-IV dataset: Exploring comorbidity diagnoses of major depressive disorder 
 
 ## About The Project
 
