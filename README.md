@@ -23,7 +23,7 @@ This project was part of the course Research Topics in Data Science (DAMI II) at
 ## Prerequisites
 
 ### Access to MIMIC-IV dataset
-* Only credentialed users who sign the specified DUA can access the files. Visit Physionet.org to become a "credentialed user", and sign a data-use agreement.
+* Only credentialed users who sign the specified data-use agreement can access the files. Visit Physionet.org to become a "credentialed user", and sign a data-use agreement.
 
 ### MIMIC-IV files saved locally
 The following files have to be saved locally:
