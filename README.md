@@ -11,7 +11,7 @@ This project was part of the course Research Topics in Data Science (DAMI II) at
 
 ### Built With
 
-* Python
+* Python 3.8.5
 * Jupyter Notebook
 * pandas
 * mlxtend
