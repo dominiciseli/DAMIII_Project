@@ -3,7 +3,7 @@
 
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+This project was part of the course Research Topics in Data Science (DAMI II) at the Department of Computer and Systems Sciences of Stockholm University. The aim of this study was to explore comorbidity diagnoses of major depressive disorder by applying association rule mining with the Apriori algorithm on the MIMIC-IV dataset. Patients with primary ICD-10 diagnosis F32.9 (n=4416) and their comorbidities have been identified. An equal number of patients with no major depressive disorder were randomly selected and matched with the experimental group by gender and age group. Frequent itemsets and association rules were generated using a minimum support threshold of 8% and a minimum confidence threshold of 80%. Pearson’s chi-squared (χ2) test was subsequently used to evaluate the statistical significance of the generated association rules.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -22,20 +22,15 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ## Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Access to MIMIC-IV dataset
+* Only credentialed users who sign the specified DUA can access the files. Visit Physionet.org to become a "credentialed user", and sign a data-use agreement.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+### MIMIC-IV files saved locally
+The following files have to be saved locally:
+* `admissions.csv`
+* `patients.csv`
+* `d_icd_diagnoses.csv`
+* `diagnoses.csv`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
