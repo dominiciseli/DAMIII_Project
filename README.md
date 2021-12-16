@@ -34,7 +34,10 @@ The following files have to be saved locally:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Licence
+The default copyright laws apply, meaning that all rights to this source code are retained. The code may not be reproduced, distributed, or derivative works created from this work.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
